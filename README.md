@@ -77,11 +77,17 @@ plt.show()
 
 ```
 
+
+
 ## Output waveform   
 
 ![image](https://github.com/user-attachments/assets/a30c42be-5203-488d-9d95-bbc4352652a3)
 
 
+
+
 ## Result 
 Thus the delta modulation signal is performed using python.
+
+
 
